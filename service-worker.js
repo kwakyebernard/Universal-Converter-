@@ -8,8 +8,8 @@ const FILES_TO_CACHE = [
   "./style.css",
   "./script.js",
   "./manifest.json",
-  "./icon-192.png",
-  "./icon-512.png",
+  "./Untitled design.png",
+  "./Untitled design.png",
   "./click.mp3"
 ];
 
